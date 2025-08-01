@@ -6,7 +6,7 @@ import RentCar from './pages/RentCar';
 import Brand from './pages/Brand'; // You'll need to create this
 import Login from './pages/Login'; // You'll need to create this
 
-import '/mobycar24xreact/src/styles/App.css';
+import './styles/App.css';
 
 function App() {
   return (
